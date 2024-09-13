@@ -1,0 +1,5 @@
+/.idea/
+/AdapterService/target/
+/EurekaServer/target/
+/ServiceA/target/
+/ServiceB/target/
